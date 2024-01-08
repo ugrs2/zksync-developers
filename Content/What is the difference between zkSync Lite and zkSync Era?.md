@@ -1,4 +1,5 @@
 # What is the difference between zkSync Lite and zkSync Era?
+
 ### Overview
 An explanation between the two different protocols that were created by the Matter Labs team. 
 
